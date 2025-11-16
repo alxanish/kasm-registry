@@ -8,7 +8,7 @@ const nextConfig = {
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://alxanish.github.io/kasm-registry/',
-    contactUrl: 'https://kasmweb.com/support',
+    contactUrl: 'https://github.com/alxanish/kasm-registry/issues',
   },
   reactStrictMode: true,
   basePath: '/kasm-registry/1.0',
